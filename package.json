@@ -1,0 +1,18 @@
+{
+  "name": "nodemailer-mail-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hemant Sharma",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.1",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "nodemailer": "^7.0.6"
+  }
+}
